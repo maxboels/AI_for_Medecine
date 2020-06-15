@@ -7,10 +7,14 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 - Prognosis
 
 ## AI for Medical Diagnosis:
-- Project 1: Chest X-Ray Medical Diagnosis with Deep Learning.
-- Project 2: Evaluation of Diagnostic Models.
-- Project 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI).
 
-
+- Week 1: Chest X-Ray Medical Diagnosis with Deep Learning.
 
 ![](AI4M_Diagnosis/week_1/utf-8''xray-header-image.png)
+
+- Week 2: Evaluation of Diagnostic Models.
+- Week 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI).
+
+
+
+
