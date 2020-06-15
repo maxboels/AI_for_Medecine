@@ -13,9 +13,6 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 ![](AI4M_Diagnosis/week_1/utf-8''xray-header-image.png)
 
 - Week 2: Evaluation of Diagnostic Models.
-
-![](AI4M_Diagnosis/week_2/utf-8''sens_spec.png)
-
 - Week 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI).
 
 
