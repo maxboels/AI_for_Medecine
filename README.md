@@ -2,11 +2,12 @@
 
 
 This deeplearning.ai Specialization is divided into 3 courses each counting 3 practical projects:
-- Diagnosis: create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
-- Prognosis: predicting the future health of patients.
+- Diagnosis
+- Prognosis
 - Treatment
 
 ## AI for Medical Diagnosis:
+Create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
 
 - Week 1: Chest X-Ray Medical Diagnosis with Deep Learning.
 
@@ -19,3 +20,6 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 
 
 ## AI for Medical Prognosis:
+Predicting the future health of patients.
+
+
