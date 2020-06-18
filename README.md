@@ -13,13 +13,13 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 ## 1. AI for Medical Diagnosis:
 Create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
 <a name="1-1"></a>
-## 1.1 Week 1: Chest X-Ray Medical Diagnosis with Deep Learning.
+### 1.1 Week 1: Chest X-Ray Medical Diagnosis with Deep Learning.
 
 ![](AI4M_Diagnosis/week_1/utf-8''xray-header-image.png)
 <a name="1-2"></a>
-## 1.2 Week 2: Evaluation of Diagnostic Models.
+### 1.2 Week 2: Evaluation of Diagnostic Models.
 <a name="1-3"></a>
-## 1.3 Week 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI).
+### 1.3 Week 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI).
 
 ![](AI4M_Diagnosis/week_3/utf-8''gif_out.gif)
 
