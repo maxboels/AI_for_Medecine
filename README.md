@@ -1,7 +1,7 @@
 # AI_for_Medecine
 
 
-This deeplearning.ai Specialization is divided into 3 courses each counting 1 practical project per week:
+This deeplearning.ai Specialization is divided into 3 courses with 1 practical project per week:
 - [1. Diagnosis](#1)
   - [1.1 Week 1](#1-1)
   - [1.2 Week 2](#1-2)
