@@ -6,6 +6,8 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 - Prognosis
 - Treatment
 
+- [1. Diagnosis](#1)
+
 ## AI for Medical Diagnosis:
 Create convolutional neural network image classification and segmentation models to make diagnoses of lung and brain disorders. 
 
@@ -18,8 +20,8 @@ Create convolutional neural network image classification and segmentation models
 
 ![](AI4M_Diagnosis/week_3/utf-8''gif_out.gif)
 
-
-## AI for Medical Prognosis:
+<a name="1"></a>
+## 1 AI for Medical Prognosis:
 Predicting the future health of patients.
 
 
