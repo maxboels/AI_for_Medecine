@@ -21,7 +21,7 @@ Create convolutional neural network image classification and segmentation models
 ![](AI4M_Diagnosis/week_3/utf-8''gif_out.gif)
 
 <a name="1"></a>
-## 1 AI for Medical Prognosis:
+## 1. AI for Medical Prognosis:
 Predicting the future health of patients.
 
 
