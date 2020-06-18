@@ -18,3 +18,4 @@ This deeplearning.ai Specialization is divided into 3 courses each counting 3 pr
 ![](AI4M_Diagnosis/week_3/utf-8''gif_out.gif)
 
 
+## AI for Medical Treatment:
